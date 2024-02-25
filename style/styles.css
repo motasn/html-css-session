@@ -1,7 +1,19 @@
-h1{
-    color: aqua;
+*{
+    margin:0;
+    padding: 0px;
 }
-nav{
-    background-color: burlywood;
-    margin:10px ;
+.gar h1{ text-align: center;
+    color: rgb(160, 228, 158);
+    background-color: brown;
+    background-position: bottom center;
+    padding:7px ; border-radius:15px  ;
+}
+.gar{ background-image:url(../gardering/victor-malyushev-w_N-XCjiM0o-unsplash.jpg)  ;
+    background-color: rgb(126, 187, 223);
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
+.gar{
+/* flex-direction: row;     */
 }
